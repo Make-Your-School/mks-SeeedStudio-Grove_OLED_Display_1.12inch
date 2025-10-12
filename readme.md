@@ -3,7 +3,7 @@ title: "OLED-Bildschirm"
 date: "2018-10-01T15:01:02.000Z"
 tags: 
   - "output"
-coverImage: "63_oled_bildschirm.jpg"
+coverImage: "63_oled_bildschirm.png"
 material_number: "63"
 material_type: "output"
 material_short_descr: "Seeed Studio Grove – OLED Display 1.12\""
