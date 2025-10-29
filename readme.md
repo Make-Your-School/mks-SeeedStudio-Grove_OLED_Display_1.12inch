@@ -16,9 +16,6 @@ repo_part: "Grove_OLED_Display_1.12inch"
 product_url: "http://wiki.seeedstudio.com/Grove-OLED_Display_1.12inch/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_OLED_Display_1.12inch.git"
 embedded_example_file: "examples/Grove_OLED_Display_1.12inch_minimal/Grove_OLED_Display_1.12inch_minimal.ino"
-title: 'OLED-Bildschirm'
-status: 'active'
-difficulty: 'advanced'
 ---
 
 
